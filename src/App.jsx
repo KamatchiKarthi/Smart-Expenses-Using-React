@@ -2,8 +2,8 @@ import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Home from './Pages/Home';
 import Dashboard from './Pages/Dashboard';
-import ExpensesPages from './Pages/ExpensesPages';
-import Reportpages from './Pages/Reportpages';
+import ExpensesPages from './Pages/Expensespages';
+// import Reportpages from './Pages/Reportpages';
 
 export default function App() {
   return (
