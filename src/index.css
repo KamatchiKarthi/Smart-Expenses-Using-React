@@ -1,0 +1,21 @@
+@import 'tailwindcss';
+
+.header {
+  @apply text-white text-3xl p-5 flex items-center   gap-3;
+}
+.menubar {
+  @apply !mt-8;
+}
+
+.Cardtitle {
+  @apply text-3xl flex gap-5 items-center;
+}
+
+.ant-layout-content {
+  @apply !m-1;
+}
+
+.ant-card-head {
+  @apply !no-underline
+
+}
